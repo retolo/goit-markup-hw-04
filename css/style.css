@@ -121,6 +121,27 @@ body{
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+.block_for_icons{
+    width: 264px;
+    height: 112px;
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+    background-color: #F4F4FD;
+    margin-bottom: 8px;
+    margin-right: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.icon{
+    width: 64px;
+    height: 64px;
+}
+
+
 
 .header_first_section{
     font-weight: 700;
