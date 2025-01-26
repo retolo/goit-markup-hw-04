@@ -463,3 +463,40 @@ ul{
     border-top: none;
 
 }
+ul{
+    list-style-type: none;
+}
+
+
+.content-footer{
+    align-items: baseline;
+    display: flex;
+}
+
+
+.information_block_footer{
+    margin-right: 120px;
+    max-width: 264px;
+
+}
+
+
+.footer_icons{
+
+}
+
+
+.text_soc_footer{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #fff;
+    margin-bottom: 16px;
+}
+
+
+.footer_icons_list{
+    display: flex;
+    gap: 16px;
+}
