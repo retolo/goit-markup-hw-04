@@ -253,6 +253,10 @@ ul.list_third_section li.item_list {
     justify-content: center;
 }
 
+.link_soc_icons:hover,
+.link_soc_icons:focus{
+    background-color: #404bbf;
+}
 
 .icon_svg{
     fill: #f4f4fd;
