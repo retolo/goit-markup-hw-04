@@ -363,6 +363,7 @@ img{
     display: flex;
 /*    list-style-type: none;*/
     gap: 40px;
+    margin-right: 332px;
 }
 
 .header_adress{
@@ -370,6 +371,9 @@ img{
     gap: 40px;
 
 
+}
+a{
+    text-decoration: none;
 }
 
 .second_list{
