@@ -283,6 +283,7 @@ ul.list_third_section li.item_list {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    margin-bottom: 8px;
 }
 
 
@@ -370,6 +371,10 @@ img{
     display: flex;
     gap: 40px;
 
+
+}
+h1, h2, h3, h4, h5, h6{
+    margin-top: 0;
 
 }
 a{
